@@ -1,3 +1,5 @@
+# 7.11更新
+更新了train.py(audiocraft/train.py)，数据集已整理，链接稍后上传
 # Audiocraft
 ![docs badge](https://github.com/facebookresearch/audiocraft/workflows/audiocraft_docs/badge.svg)
 ![linter badge](https://github.com/facebookresearch/audiocraft/workflows/audiocraft_linter/badge.svg)
